@@ -15,3 +15,4 @@ Every single developer has their preferences and opinions of best practices. Let
 5. Bash or csh?
 6. Twitter or Tweetbot?
 7. Alfred or spotlight?
+8. Vi, vim, emacs, nano or ... ?
